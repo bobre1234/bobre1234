@@ -1,6 +1,6 @@
 ## Hi there, I'm Sebastien 👋
 
-**Sysadmin :penguin: | Network/Mikrotik :purple_heart: | CTF Player**
+**Sysadmin :penguin: | Network/Mikrotik :purple_heart: | Blue Team 🔵 & CTF Player ⚔️**
 
 🛡️ Ranking TryHackMe : Top 7%
 
