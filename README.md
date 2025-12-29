@@ -1,11 +1,15 @@
 ## Hi there, I'm Sebastien 👋
 
-**Sysadmin | Network lover (Mikrotik)  | CTF Player | TryHackMe & HackTheBox Addict**
+**Sysadmin :penguin: | Network/Mikrotik :purple_heart: | CTF Player**
+
+🛡️ Ranking TryHackMe : Top 7%
+
 
 ### My skills
 
 ![Linux](https://img.shields.io/badge/Linux-Pro-purple)
 ![Windows](https://img.shields.io/badge/Windows-Expert-green)
+![MacOS](https://img.shields.io/badge/MacOS-Expert-green)
 
 ![Mikrotik](https://img.shields.io/badge/Mikrotik-Expert-green)
 ![Cisco](https://img.shields.io/badge/Cisco-Intermediate-blue)
@@ -19,6 +23,10 @@
 ![PHP](https://img.shields.io/badge/PHP-Intermediate-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-Intermediate-blue)
 ![Rust](https://img.shields.io/badge/Rust-Beginner-pink)
+
+### My projects 
+
+:construction: **under construction - please wait**
 
 ### Contact
 
