@@ -11,7 +11,7 @@
 ![Windows](https://img.shields.io/badge/Windows-Expert-green)
 ![MacOS](https://img.shields.io/badge/MacOS-Expert-green)
 
-![Mikrotik](https://img.shields.io/badge/Mikrotik-Expert-green)
+![Mikrotik](https://img.shields.io/badge/Mikrotik-Advanced-purple)
 ![Cisco](https://img.shields.io/badge/Cisco-Intermediate-blue)
 
 ![Docker](https://img.shields.io/badge/Docker-Intermediate-blue)
