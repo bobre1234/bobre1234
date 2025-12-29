@@ -26,7 +26,8 @@
 
 ### My projects 
 
-:construction: **under construction - please wait**
+- **Script projects** : prefixed by "Scripts" in my repositories
+- **Developpment / App projects** : prefixed by "Dev" in my repositories
 
 ### Contact
 
