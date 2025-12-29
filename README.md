@@ -30,4 +30,4 @@
 
 ### Contact
 
-- 💼 LinkedIn : linkedin.com/in/sébastienchauveau
+💼 LinkedIn : linkedin.com/in/sébastienchauveau
